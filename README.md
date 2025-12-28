@@ -5,6 +5,7 @@ Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 🏗️ Data Architecture
+
 ![data_architecture drawio](https://github.com/user-attachments/assets/c5006fee-5b48-4142-a9c1-f7b64983019f)
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
@@ -68,7 +69,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 For more details, refer to docs/requirements.md.
 
 📂 Repository Structure
-
+'''
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -92,7 +93,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
+'''
 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
