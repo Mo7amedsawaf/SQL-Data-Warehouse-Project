@@ -4,7 +4,7 @@ Build a modern data warehouse with SQL server, including ETL processes, data mod
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-🏗️ Data Architecture
+## 🏗️ Data Architecture
 
 ![data_architecture drawio](https://github.com/user-attachments/assets/c5006fee-5b48-4142-a9c1-f7b64983019f)
 
@@ -13,15 +13,16 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
-📖 Project Overview
+
+## 📖 Project Overview
 
 This project involves:
-
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+## 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
 SQL Development
 Data Architect
@@ -29,9 +30,8 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
-🛠️ Important Links & Tools:
 
-Everything is for Free!
+## 🛠️ Important Tools:
 
 Datasets: Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
@@ -40,7 +40,8 @@ Git Repository: Set up a GitHub account and repository to manage, version, and c
 DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: Get the Project Template from Notion
 Notion Project Steps: Access to All Project Phases and Tasks.
-🚀 Project Requirements
+
+## 🚀 Project Requirements
 
 Building the Data Warehouse (Data Engineering)
 
@@ -57,7 +58,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 BI: Analytics & Reporting (Data Analysis)
 
-Objective
+## Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -94,10 +95,10 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
-🛡️ License
+## 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
+## 🌟 About Me
 
 Hi there! I'm Mohamed Amr El-Sawaf.A motivated Computer Science and Engineering student with a strong passion for continuous learning and self-development. A former content creator with strong presentation and storytelling skills, enabling clear communication, effective knowledge transfer, and meaningful narrative building. Holds a diverse, cross- disciplinary skill set across technology, design, and analytical thinking. Through accumulated experience, has identified data analysis as a natural direction and is currently focused on exploring and developing in this field. Known for simplifying complex concepts, collaborating effectively within teams, and adapting quickly to new challenges. Driven by curiosity, discipline, and a clear objective to build a solid, data-driven career grounded in strong technical fundamentals.
